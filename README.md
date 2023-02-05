@@ -6,3 +6,7 @@
 
 - starter folder:
   - it doesn't include the js and css folders so just make sure you have that locally
+
+
+VIDEO: 
+https://www.youtube.com/watch?v=VM29olQksuw
